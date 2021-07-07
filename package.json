@@ -8,6 +8,8 @@
     "android",
     "branch.example.json",
     "ios",
+    "plugin",
+    "app.plugin.js",
     "!**/*-dev.podspec",
     "react-native-branch.podspec",
     "src"
